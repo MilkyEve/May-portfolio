@@ -1,0 +1,18 @@
+.ov-gamescontainer {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.ov-gamecontainer {
+	margin: 50px;
+	width: 200px;
+}
+
+.ov-gamecontainer a img {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-style: solid;
+	border-color: #c1c1c1;
+  	border-width: .5px;
+	margin-bottom: 25px;
+}
+
